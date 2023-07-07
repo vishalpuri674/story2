@@ -1,1 +1,3 @@
 This is a story .
+Trying to add better things .
+and will merge to original branch if it feels better
